@@ -4,6 +4,11 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 
 - Linguagens: Java; SQL
 - Programas/Ferramentas: MySQL Workbench; Eclipse; Maven; Java
+- Projeto contém:
+  - Código Java
+  - Código MySQL
+  - Modelo conceitual (BR Modelo)
+  - 
 - Desenvolvedores:
   - Jéssica Raissa Pessoa (GitHub: https://github.com/jessicaraissapessoa)
   - Miquéias Oliveira Ferreira (GitHub: https://github.com/miqueiasoliveiraf)
