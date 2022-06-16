@@ -6,11 +6,12 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 ###
 - Programas/Ferramentas: MySQL Workbench; Eclipse; Maven; Java; BR Modelo; Astah Community
 ###
-- Projeto contém:
-  - Código Java
+- Projeto contém/utilizou:
+  - Código Java (Eclipse)
   - Modelo conceitual (BR Modelo)
   - Modelo lógico (Astah Community)
   - Modelo físico (MySQL Workbench)
+  - Documento (Notion)
 ###
 - Desenvolvedores:
   - Jéssica Raissa Pessoa (GitHub: https://github.com/jessicaraissapessoa)
