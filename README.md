@@ -18,3 +18,9 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
   - Miquéias Oliveira Ferreira (GitHub: https://github.com/miqueiasoliveiraf)
   - Patreze Leal (GitHub: https://github.com/PatrezeLeal)
 
+## Documento
+
+- Acesso ao documento (Notion): https://www.notion.so/Documento-LocadoraFilmes-6020d3f307734bc2a40c0eec7f9dbb3c
+- Versão PDF do documento consta no repositório em questão sob o nome "Documento - LocadoraFilmes"
+- Documento contém:
+  - a
