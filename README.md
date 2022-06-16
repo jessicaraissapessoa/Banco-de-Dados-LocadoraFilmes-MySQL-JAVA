@@ -2,7 +2,8 @@
 
 Projeto de integração entre Banco de Dados MySQL e Java para criação de um sistema para Locadora de Filmes
 
-- Tags: MySQL Workbench; Eclipse; Maven; SQL; Java.
+- Linguagens: Java; SQL
+- Programas/Ferramentas: MySQL Workbench; Eclipse; Maven; Java
 - Desenvolvedores:
   - Jéssica Raissa Pessoa (GitHub: https://github.com/jessicaraissapessoa)
   - Miquéias Oliveira Ferreira (GitHub: https://github.com/miqueiasoliveiraf)
