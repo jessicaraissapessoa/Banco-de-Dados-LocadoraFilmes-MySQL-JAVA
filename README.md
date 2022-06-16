@@ -25,4 +25,10 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 - Versão PDF do documento consta no repositório em questão sob o nome "Documento - LocadoraFilmes"
 ###
 - Documento contém:
-  - a
+  - Descrição do produto
+  - Objetivos do produto
+  - Descrição do funcionamento
+  - Modelo conceitual do produto (desenvolvido no BR Modelo)
+  - Modelo lógico (desenvolvido no Astah Community)
+  - Modelo Físico (desenvolvido no MySQL Workbench utilizando linguagem SQL)
+  - Código Java (desenvolvido no Eclipse utilizando linguagem Java)
