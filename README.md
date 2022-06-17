@@ -35,17 +35,20 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 
 ## Repositório
 
-Esse repositório GitHub contém:
+Esse repositório GitHub contém as seguintes pastas:
 ###
 
-- Documento em PDF
-  - Documento do produto (descrito no tópico anterior) em formato PDF
+- Documentos
+  - Documento do produto (descrito no tópico anterior) em formato PDF. Tal qual o Notion do produto:
+    - descreve o mesmo, seus objetivos, seu funcionamento;
+    - Além de apresentar, em seu corpo, os modelos conceitual, lógico e e físico (Código do Banco de Dados no MySQL) do produto;
+    - A transcrição dos códigos Java do Projeto.
 ###
 
 - Banco de Dados MySQL
-  - a
+  - Arquivo SQL do Banco de Dados locadorafilmes
 ###
 
-- 
+- Código Java do Banco de Dados locadorafilmes 
 
 
