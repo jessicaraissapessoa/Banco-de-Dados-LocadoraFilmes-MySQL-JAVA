@@ -53,6 +53,6 @@ Esse repositório GitHub contém as seguintes pastas:
 ###
 
 - Projeto Java LocadoraFilmes
-- Código Java do Banco de Dados locadorafilmes 
+  - Código Java do Banco de Dados locadorafilmes 
 
 
