@@ -32,3 +32,14 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
   - Modelo lógico (desenvolvido no Astah Community)
   - Modelo Físico (desenvolvido no MySQL Workbench utilizando linguagem SQL)
   - Código Java (desenvolvido no Eclipse utilizando linguagem Java)
+
+## Repositório
+
+Esse repositório GitHub contém:
+
+- Documento em PDF
+  - Documento do produto (descrito no tópico anterior) em formato PDF
+
+- Banco de Dados MySQL
+
+
