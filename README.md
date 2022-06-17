@@ -27,7 +27,7 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 - Documento contém:
   - Descrição do produto
   - Objetivos do produto
-  - Descrição do funcionamento
+  - Funcionamento do produto
   - Modelo conceitual do produto (desenvolvido no BR Modelo)
   - Modelo lógico (desenvolvido no Astah Community)
   - Modelo Físico (desenvolvido no MySQL Workbench utilizando linguagem SQL)
