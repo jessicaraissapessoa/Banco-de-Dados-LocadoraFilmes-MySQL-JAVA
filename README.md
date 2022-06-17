@@ -15,7 +15,7 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 ###
 - Desenvolvedores:
   - Jéssica Raissa Pessoa (GitHub: https://github.com/jessicaraissapessoa)
-  - Miquéias Oliveira Ferreira (GitHub: https://github.com/miqueiasoliveiraf)
+  - Miquéias Oliveira (GitHub: https://github.com/miqueiasoliveiraf)
   - Patreze Leal (GitHub: https://github.com/PatrezeLeal)
 
 ## Documento
