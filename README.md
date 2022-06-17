@@ -9,7 +9,7 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 - Projeto contém/utilizou:
   - Código Java (Eclipse)
   - Modelo conceitual (BR Modelo)
-  - Modelo lógico (Astah Community)
+  - Modelo lógico (BR Modelo)
   - Modelo físico (MySQL Workbench)
   - Documento (Notion)
 ###
