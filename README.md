@@ -38,8 +38,9 @@ Esse repositório GitHub contém as seguintes pastas:
 ###
 
 - Documentos LocadoraFilmes
+  
   - Documento LocadoraFilmes.pdf 
-    - Versão PDF do Documento do produto no Notion (descrito no tópico anterior);
+    - Versão PDF do Documento do produto no Notion (descrito no tópico anterior)
   
   - Modelo Conceitual LocadoraFilmes.png
     - Modelo Conceitual que foi apresentado no documento, isolado e em versão PNG
@@ -50,8 +51,12 @@ Esse repositório GitHub contém as seguintes pastas:
 ###
 
 - Banco de Dados MySQL LocadoraFilmes
-  - locadorafilmes.sql - Banco de Dados MySQL do sistema da locadora de filmes:
-    - Arquivo SQL do Banco de Dados locadorafilmes. É o modelo físico do produto.
+  
+  - locadorafilmessql.sql
+    - Arquivo SQL do Banco de Dados da locadora de filmes. O banco de dados em si
+
+  - LocadoraFilme.sql
+    - Arquivo SQL com código do Banco de Dados da locadora de filmes. Modelo físico utilizado para executar os comandos (inserção, edição, exclusão, visualização)
 ###
 
 - Projeto Java LocadoraFilmes
