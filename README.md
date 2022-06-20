@@ -37,7 +37,7 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 Esse repositório GitHub contém as seguintes pastas:
 ###
 
-- Documentos LocadoraFilmes
+- Documentos: documentos da locadora de filmes
   
   - Documento LocadoraFilmes.pdf 
     - Versão PDF do Documento do produto no Notion (descrito no tópico anterior)
@@ -50,7 +50,7 @@ Esse repositório GitHub contém as seguintes pastas:
   
 ###
 
-- Banco de Dados MySQL LocadoraFilmes
+- Banco de Dados MySQL: arquivos do Banco de Dados no MySQL Workbench
   
   - locadorafilmessql.sql
     - Arquivo SQL do Banco de Dados da locadora de filmes. O banco de dados em si
@@ -59,7 +59,7 @@ Esse repositório GitHub contém as seguintes pastas:
     - Arquivo SQL com código do Banco de Dados da locadora de filmes. Modelo físico utilizado para executar os comandos (inserção, edição, exclusão, visualização)
 ###
 
-- Projeto Java LocadoraFilmes
+- Projeto Java: pasta LocadoraFilme, relativa ao Banco de Dados no Eclipse Java
   - Código Java do Banco de Dados locadorafilmes 
 
 
