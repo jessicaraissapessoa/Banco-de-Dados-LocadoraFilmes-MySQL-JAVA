@@ -11,14 +11,16 @@ public class EditandoAluguel {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		AluguelDAO.mostrarAluguel();
+		
 		Aluguel al1 = new Aluguel();
 		
-		System.out.println("Informe o ID do aluguel que você deseja editar: ");
+		System.out.println("Informe o ID do aluguel que vocÃª deseja editar: ");
 		int idal = sc.nextInt();
 		al1.setIdaluguel(idal);
 		
 		ClientesDAO.mostrarClientes();
-		System.out.println("Informe o novo ID do cliente que você deseja inserir: ");
+		System.out.println("Informe o novo ID do cliente que vocÃª deseja inserir: ");
 		int idcl1 = sc.nextInt();
 		al1.setIdCl(idcl1);
 		
