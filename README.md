@@ -61,6 +61,6 @@ Esse repositório GitHub contém as seguintes pastas:
 
 - Projeto Java:  arquivos do Banco de Dados no Eclipse Java
 
-  - Código Java do Banco de Dados locadorafilmes pasta LocadoraFilme, relativa
+  - Pasta LocadoraFilme, relativa
 
 
