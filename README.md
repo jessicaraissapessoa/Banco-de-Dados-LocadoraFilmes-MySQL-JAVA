@@ -22,7 +22,7 @@ Projeto de integração entre Banco de Dados MySQL e Java para criação de um s
 
 - Acesso ao documento (Notion): https://www.notion.so/Documento-LocadoraFilmes-6020d3f307734bc2a40c0eec7f9dbb3c
 ###
-- Versão PDF do documento consta no repositório em questão sob o nome "Documento - LocadoraFilmes"
+- Versão PDF do documento consta no repositório em questão sob o nome "Documento - LocadoraFilmes", dentro da pasta "Documentos" do repositório
 ###
 - Documento contém:
   - Índice
