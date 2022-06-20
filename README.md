@@ -59,7 +59,8 @@ Esse repositório GitHub contém as seguintes pastas:
     - Arquivo SQL com código do Banco de Dados da locadora de filmes. Modelo físico utilizado para executar os comandos (inserção, edição, exclusão, visualização)
 ###
 
-- Projeto Java: pasta LocadoraFilme, relativa ao Banco de Dados no Eclipse Java
-  - Código Java do Banco de Dados locadorafilmes 
+- Projeto Java:  arquivos do Banco de Dados no Eclipse Java
+
+  - Código Java do Banco de Dados locadorafilmes pasta LocadoraFilme, relativa
 
 
