@@ -41,7 +41,7 @@ select * from cliente order by nomecliente asc;
 select * from filme order by idfilme asc;
 select * from filme order by nomefilme asc;
 
-select * from cliente order by idaluguel asc;
+select * from aluguel order by idaluguel asc;
 select * from aluguel order by dataaluguel asc;
 
 /* Copiar comando desejado e preencher:
